@@ -1,2 +1,2 @@
 # meadowsGA
-Attempt to use GA to explore correlated clusters of plants
+Attempt to use GA to explore correlated clusters of plants.
